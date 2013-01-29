@@ -9,6 +9,5 @@ Cahier des charges
     - Se déplaçant vers une cible choisie 
     - Récupérant ressources 
     - Attaquant d'éventuels ennemis 
-
 - Zone de ressources
 
